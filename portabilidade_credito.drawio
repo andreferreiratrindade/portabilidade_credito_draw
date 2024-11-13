@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="20">
     <diagram name="Jornada Portabilidade de Credito" id="M5Q3jhp2dl8B_hAUe0Yg">
-        <mxGraphModel dx="863" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="936" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -183,7 +183,7 @@
                         <mxGeometry x="360" y="870" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <object placeholders="1" c4Name="Validação do consentimento" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_vm4X3bxdc9zdnM3_FoE-7">
+                <object placeholders="1" c4Name="Validação do consentimento" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,a9xOKBboPTTxLzgJXMd9" id="_vm4X3bxdc9zdnM3_FoE-7">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
                         <mxGeometry x="644" y="870" width="240" height="120" as="geometry"/>
                     </mxCell>
@@ -196,7 +196,7 @@
                 <mxCell id="_vm4X3bxdc9zdnM3_FoE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" parent="1" source="_vm4X3bxdc9zdnM3_FoE-10" target="_vm4X3bxdc9zdnM3_FoE-11" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Consulta dos contrato de emprestimos" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="_vm4X3bxdc9zdnM3_FoE-10">
+                <object placeholders="1" c4Name="Consulta dos contrato de emprestimos" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,7wXiJI5MdbxWfPTROLkH" id="_vm4X3bxdc9zdnM3_FoE-10">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
                         <mxGeometry x="932" y="870" width="240" height="120" as="geometry"/>
                     </mxCell>
@@ -238,6 +238,241 @@
                 <mxCell id="T5rcpbrrIsVVIjCDNlzu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="T5rcpbrrIsVVIjCDNlzu-1" target="_vm4X3bxdc9zdnM3_FoE-13" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Consulta dos contrato de emprestimos - Scenario 1" id="7wXiJI5MdbxWfPTROLkH">
+        <mxGraphModel dx="2740" dy="1118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="wfpLJtxAq32Y8gxjnqc5-0"/>
+                <mxCell id="wfpLJtxAq32Y8gxjnqc5-1" parent="wfpLJtxAq32Y8gxjnqc5-0"/>
+                <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,M5Q3jhp2dl8B_hAUe0Yg" id="wfpLJtxAq32Y8gxjnqc5-2">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="-30" y="840" width="200" height="180" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="wfpLJtxAq32Y8gxjnqc5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wfpLJtxAq32Y8gxjnqc5-1" source="wfpLJtxAq32Y8gxjnqc5-2" target="wfpLJtxAq32Y8gxjnqc5-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Solicita Portabilidade" c4Type="SystemScopeBoundary" c4Application="Solicita Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="wfpLJtxAq32Y8gxjnqc5-4">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="283" y="760" width="1522" height="588" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Contrato" c4Type="SystemScopeBoundary" c4Application="Contrato" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="wfpLJtxAq32Y8gxjnqc5-5">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="330" y="800" width="1151" height="478" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos anteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="wfpLJtxAq32Y8gxjnqc5-6">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#333333;" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="360" y="870" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Validação do consentimento" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,a9xOKBboPTTxLzgJXMd9" id="wfpLJtxAq32Y8gxjnqc5-7">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="360" y="1074" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="wfpLJtxAq32Y8gxjnqc5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wfpLJtxAq32Y8gxjnqc5-1" source="wfpLJtxAq32Y8gxjnqc5-6" target="wfpLJtxAq32Y8gxjnqc5-7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="1030" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Gestão de simutaneidade" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,sPo656PY9CX6GSkJvdt2" id="wfpLJtxAq32Y8gxjnqc5-11">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="1208" y="1074" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="wfpLJtxAq32Y8gxjnqc5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wfpLJtxAq32Y8gxjnqc5-1" source="wfpLJtxAq32Y8gxjnqc5-11" target="wfpLJtxAq32Y8gxjnqc5-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="646" y="1147" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Solicitação de Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="wfpLJtxAq32Y8gxjnqc5-15">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="237" y="728" width="1593" height="683" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos Posteriores" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,-XVwBRaBFXgu7eRBlfFH" id="wfpLJtxAq32Y8gxjnqc5-16">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="1520" y="1074" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="wfpLJtxAq32Y8gxjnqc5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wfpLJtxAq32Y8gxjnqc5-1" source="wfpLJtxAq32Y8gxjnqc5-7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="758" y="1134" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Consulta dos contrato de emprestimos" c4Type="SystemScopeBoundary" c4Application="Consulta dos contrato de emprestimos" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Rx9Xl8dbi4fxeYItLIQY-0">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="wfpLJtxAq32Y8gxjnqc5-1">
+                        <mxGeometry x="666" y="855" width="508" height="376" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Validação do consentimento - Scenario 1" id="a9xOKBboPTTxLzgJXMd9">
+        <mxGraphModel dx="2740" dy="1518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="AjIUs6OY1QuQ-ggyME98-0"/>
+                <mxCell id="AjIUs6OY1QuQ-ggyME98-1" parent="AjIUs6OY1QuQ-ggyME98-0"/>
+                <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,M5Q3jhp2dl8B_hAUe0Yg" id="AjIUs6OY1QuQ-ggyME98-2">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="-30" y="840" width="200" height="180" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="AjIUs6OY1QuQ-ggyME98-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AjIUs6OY1QuQ-ggyME98-1" source="AjIUs6OY1QuQ-ggyME98-2" target="AjIUs6OY1QuQ-ggyME98-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Solicita Portabilidade" c4Type="SystemScopeBoundary" c4Application="Solicita Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="AjIUs6OY1QuQ-ggyME98-4">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="283" y="760" width="1490" height="588" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Contrato" c4Type="SystemScopeBoundary" c4Application="Contrato" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="AjIUs6OY1QuQ-ggyME98-5">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="330" y="800" width="1001" height="478" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Seleciona Credora" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="AjIUs6OY1QuQ-ggyME98-6">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="360" y="870" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="AjIUs6OY1QuQ-ggyME98-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="AjIUs6OY1QuQ-ggyME98-1" source="AjIUs6OY1QuQ-ggyME98-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="1030" as="sourcePoint"/>
+                        <mxPoint x="644" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="xGkaAHapDitjx2Zz41fr-2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AjIUs6OY1QuQ-ggyME98-1" source="AjIUs6OY1QuQ-ggyME98-10" target="AjIUs6OY1QuQ-ggyME98-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Consulta dos contrato de emprestimos" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="AjIUs6OY1QuQ-ggyME98-10">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="1066" y="876" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Solicitação de Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="AjIUs6OY1QuQ-ggyME98-15">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="237" y="728" width="1593" height="683" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos Posteriores" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,-XVwBRaBFXgu7eRBlfFH" id="AjIUs6OY1QuQ-ggyME98-16">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="1471" y="876" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Validação de Consentimento" c4Type="SystemScopeBoundary" c4Application="Validação de Consentimento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="xGkaAHapDitjx2Zz41fr-1">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="678" y="861" width="356" height="318" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="l4vKpDnVyCmeUO0VHSWH-0" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;Scenario 1:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                    <mxGeometry x="-30" y="271" width="1020" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Scenario 1:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" link="data:page/id,a9xOKBboPTTxLzgJXMd9" id="l4vKpDnVyCmeUO0VHSWH-1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;spacingLeft=3;fillStyle=solid;" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="-30" y="359" width="389" height="46" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="l4vKpDnVyCmeUO0VHSWH-2" value="&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;strong style=&quot;font-size: 18px;&quot;&gt;Critério de aceite:&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=-15;arcSize=5;" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                    <mxGeometry x="1042" y="315" width="511" height="401" as="geometry"/>
+                </mxCell>
+                <mxCell id="l4vKpDnVyCmeUO0VHSWH-3" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=1;arcSize=5;" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                    <mxGeometry x="389" y="316" width="637" height="400" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Scenario 2:&lt;/b&gt;&lt;/font&gt;" link="data:page/id,-FPwJpNhP1Hh3Aa1enwT" id="l4vKpDnVyCmeUO0VHSWH-4">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;verticalAlign=middle;fillStyle=hatch;" vertex="1" parent="AjIUs6OY1QuQ-ggyME98-1">
+                        <mxGeometry x="-30" y="456" width="389" height="46" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Validação do consentimento - Scenario 2" id="-FPwJpNhP1Hh3Aa1enwT">
+        <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="RMESrJic_6vI46yKRah1-0"/>
+                <mxCell id="RMESrJic_6vI46yKRah1-1" parent="RMESrJic_6vI46yKRah1-0"/>
+                <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,M5Q3jhp2dl8B_hAUe0Yg" id="RMESrJic_6vI46yKRah1-2">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="-30" y="840" width="200" height="180" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="RMESrJic_6vI46yKRah1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RMESrJic_6vI46yKRah1-1" source="RMESrJic_6vI46yKRah1-2" target="RMESrJic_6vI46yKRah1-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Solicita Portabilidade" c4Type="SystemScopeBoundary" c4Application="Solicita Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="RMESrJic_6vI46yKRah1-4">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="283" y="760" width="1490" height="588" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Contrato" c4Type="SystemScopeBoundary" c4Application="Contrato" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="RMESrJic_6vI46yKRah1-5">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="330" y="800" width="1001" height="478" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Seleciona Credora" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RMESrJic_6vI46yKRah1-6">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="360" y="870" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="RMESrJic_6vI46yKRah1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RMESrJic_6vI46yKRah1-1" source="RMESrJic_6vI46yKRah1-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="1030" as="sourcePoint"/>
+                        <mxPoint x="644" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="RMESrJic_6vI46yKRah1-8" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RMESrJic_6vI46yKRah1-1" source="RMESrJic_6vI46yKRah1-9" target="RMESrJic_6vI46yKRah1-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Consulta dos contrato de emprestimos" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="RMESrJic_6vI46yKRah1-9">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;align=center;arcSize=10;strokeColor=#6c8ebf;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="1066" y="876" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Solicitação de Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="RMESrJic_6vI46yKRah1-10">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="237" y="728" width="1593" height="683" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos Posteriores" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,-XVwBRaBFXgu7eRBlfFH" id="RMESrJic_6vI46yKRah1-11">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="1471" y="876" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Validação de Consentimento" c4Type="SystemScopeBoundary" c4Application="Validação de Consentimento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="RMESrJic_6vI46yKRah1-12">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="678" y="861" width="356" height="318" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="RMESrJic_6vI46yKRah1-13" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;Scenario 2:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                    <mxGeometry x="-30" y="271" width="1020" height="30" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Scenario 1:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" link="data:page/id,a9xOKBboPTTxLzgJXMd9" id="RMESrJic_6vI46yKRah1-14">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;spacingLeft=3;fillStyle=hatch;" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="-30" y="359" width="389" height="46" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="RMESrJic_6vI46yKRah1-15" value="&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;strong style=&quot;font-size: 18px;&quot;&gt;Critério de aceite:&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=-15;arcSize=5;" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                    <mxGeometry x="1042" y="315" width="511" height="401" as="geometry"/>
+                </mxCell>
+                <mxCell id="RMESrJic_6vI46yKRah1-16" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=1;arcSize=5;" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                    <mxGeometry x="389" y="316" width="637" height="400" as="geometry"/>
+                </mxCell>
+                <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Scenario 2:&lt;/b&gt;&lt;/font&gt;" link="data:page/id,-FPwJpNhP1Hh3Aa1enwT" id="RMESrJic_6vI46yKRah1-17">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;verticalAlign=middle;fillStyle=solid;" vertex="1" parent="RMESrJic_6vI46yKRah1-1">
+                        <mxGeometry x="-30" y="456" width="389" height="46" as="geometry"/>
+                    </mxCell>
+                </UserObject>
             </root>
         </mxGraphModel>
     </diagram>
@@ -392,7 +627,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="Ccs2A9_U3fxuOOCh3Cor" name="Proposta - Scenario 1">
-        <mxGraphModel dx="2368" dy="332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1702" dy="304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -406,7 +641,7 @@
                         <mxGeometry x="302" y="1560" width="972" height="346" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="ap6cFAMUo3RkKITiRbT4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ap6cFAMUo3RkKITiRbT4-4" edge="1" target="ap6cFAMUo3RkKITiRbT4-7">
+                <mxCell id="ap6cFAMUo3RkKITiRbT4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ap6cFAMUo3RkKITiRbT4-4" target="ap6cFAMUo3RkKITiRbT4-7" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="686" y="1720" as="targetPoint"/>
                     </mxGeometry>
@@ -460,27 +695,27 @@
                         <mxGeometry x="971" y="1660" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="eYnc4khKnFHKxMqyAJVl-1" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;Scenario 1:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp;Valor da parcela da nova proposta é menor que o valor do contrato original&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;" vertex="1" parent="1">
+                <mxCell id="eYnc4khKnFHKxMqyAJVl-1" value="&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;Scenario 1:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 24px;&quot;&gt;&amp;nbsp;Valor da parcela da nova proposta é menor que o valor do contrato original&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=24;" parent="1" vertex="1">
                     <mxGeometry x="3" y="1051" width="1020" height="30" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Scenario 1:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Valor da parcela da nova proposta é menor que o valor do contrato original&lt;/span&gt;&lt;/font&gt;" link="data:page/id,Ccs2A9_U3fxuOOCh3Cor" id="eYnc4khKnFHKxMqyAJVl-2">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;spacingLeft=3;fillStyle=solid;" vertex="1" parent="1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;spacingLeft=3;fillStyle=solid;" parent="1" vertex="1">
                         <mxGeometry x="3" y="1139" width="389" height="46" as="geometry"/>
                     </mxCell>
                 </UserObject>
-                <mxCell id="eYnc4khKnFHKxMqyAJVl-5" value="&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;strong style=&quot;font-size: 18px;&quot;&gt;Critério de aceite:&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;1. Caso o valor da parcela da nova proposta seja maior que o do contrato original, a proponente deverá solicitar de um de acordo do cliente, através de uma (flag)&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;2. O prazo da nova proposta não pode ser superior ao do contrato original&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=-15;arcSize=5;" vertex="1" parent="1">
+                <mxCell id="eYnc4khKnFHKxMqyAJVl-5" value="&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;strong style=&quot;font-size: 18px;&quot;&gt;Critério de aceite:&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;1. Caso o valor da parcela da nova proposta seja maior que o do contrato original, a proponente deverá solicitar de um de acordo do cliente, através de uma (flag)&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;2. O prazo da nova proposta não pode ser superior ao do contrato original&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=-15;arcSize=5;" parent="1" vertex="1">
                     <mxGeometry x="1075" y="1095" width="511" height="401" as="geometry"/>
                 </mxCell>
-                <mxCell id="eYnc4khKnFHKxMqyAJVl-6" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Feature&lt;/b&gt;: Solicitação de portabilidade com valor da parcela maior do que o valor atual do contrato&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Background&lt;/b&gt;:&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Given&lt;/b&gt; o cliente acessou aplicativo do proponente&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;And&lt;/b&gt; permitiu compartilhamento de dados através da credora&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;And&lt;/b&gt; selecionou um contrato para realizar portabilidade&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Scenario: &lt;/b&gt;Proposta com valor da parcela superior ao contrato atual com aceite do cliente&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;b style=&quot;font-size: 18px;&quot;&gt; Given &lt;/b&gt;o cliente receba uma proposta dada pelo proponente com o valor da parcela superior ao valor da parcela do contrato atual&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;When&lt;/b&gt; o proponente solicita ao cliente uma confirmação de ciencia dos valores descritos na proposta&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Then&lt;/b&gt; o proponente bloqueia o botão de &quot;solicitar portabilidade&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Then&lt;/b&gt; o cliente realiza confirmação da ciencia dos valores descritos na proposta&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Then&lt;/b&gt; a proponente habilita o botão de &quot;solicitar portabilidade&quot;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=1;arcSize=5;" vertex="1" parent="1">
+                <mxCell id="eYnc4khKnFHKxMqyAJVl-6" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Feature&lt;/b&gt;: Solicitação de portabilidade com valor da parcela maior do que o valor atual do contrato&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Background&lt;/b&gt;:&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Given&lt;/b&gt; o cliente acessou aplicativo do proponente&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;And&lt;/b&gt; permitiu compartilhamento de dados através da credora&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;And&lt;/b&gt; selecionou um contrato para realizar portabilidade&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Scenario: &lt;/b&gt;Proposta com valor da parcela superior ao contrato atual com aceite do cliente&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;b style=&quot;font-size: 18px;&quot;&gt; Given &lt;/b&gt;o cliente receba uma proposta dada pelo proponente com o valor da parcela superior ao valor da parcela do contrato atual&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;When&lt;/b&gt; o proponente solicita ao cliente uma confirmação de ciencia dos valores descritos na proposta&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Then&lt;/b&gt; o proponente bloqueia o botão de &quot;solicitar portabilidade&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Then&lt;/b&gt; o cliente realiza confirmação da ciencia dos valores descritos na proposta&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 18px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; color: rgb(0, 0, 0);&quot; class=&quot;p1&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;b style=&quot;font-size: 18px;&quot;&gt;Then&lt;/b&gt; a proponente habilita o botão de &quot;solicitar portabilidade&quot;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;align=left;spacingLeft=5;fontColor=#333333;fontSize=18;verticalAlign=top;spacingTop=1;arcSize=5;" parent="1" vertex="1">
                     <mxGeometry x="422" y="1096" width="637" height="400" as="geometry"/>
                 </mxCell>
                 <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Scenario 2:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&amp;nbsp;Valor da parcela da nova proposta maior que o valor do contrato original&lt;/span&gt;&lt;/font&gt;" link="data:page/id,B4k6aHUSzAgBF_k9-hbv" id="aatKa6FSp1O3r3LrYdYe-1">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;verticalAlign=middle;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;verticalAlign=middle;fillStyle=hatch;" parent="1" vertex="1">
                         <mxGeometry x="3" y="1236" width="389" height="46" as="geometry"/>
                     </mxCell>
                 </UserObject>
                 <UserObject label="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Scenario 3:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Proposta com prazo superior ao do contrato origina&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;l&lt;/span&gt;&lt;/font&gt;" link="data:page/id,YZLujEtTQNNt8TwsXOYg" id="cQeALBt-QjtuHMYeUSWb-1">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;verticalAlign=middle;fillStyle=hatch;" vertex="1" parent="1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;align=left;verticalAlign=middle;fillStyle=hatch;" parent="1" vertex="1">
                         <mxGeometry x="3" y="1335" width="389" height="46" as="geometry"/>
                     </mxCell>
                 </UserObject>
@@ -868,7 +1103,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="L5f78kHe42aGRitIhAWh" name="Contraproposta - Scenario 1">
-        <mxGraphModel dx="3860" dy="-1385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="3140" dy="-1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -955,7 +1190,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Contraproposta - Scenario 3" id="tmBHKwop6HUO29k2K_KI">
-        <mxGraphModel dx="3260" dy="-1385" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1736" dy="-2193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="Yq1XORfycZsZseIXgy6u-0"/>
                 <mxCell id="Yq1XORfycZsZseIXgy6u-1" parent="Yq1XORfycZsZseIXgy6u-0"/>
@@ -1042,13 +1277,13 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Liquidação" id="ojzN_VI0zjXX4XeoHVcp">
-        <mxGraphModel dx="2489" dy="-2094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="3140" dy="-1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="nBdt6PHgGBMKfEyYtg19-0"/>
                 <mxCell id="nBdt6PHgGBMKfEyYtg19-1" parent="nBdt6PHgGBMKfEyYtg19-0"/>
                 <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nBdt6PHgGBMKfEyYtg19-2">
                     <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="-619" y="3263" width="200" height="180" as="geometry"/>
+                        <mxGeometry x="-589" y="3267" width="200" height="180" as="geometry"/>
                     </mxCell>
                 </object>
                 <mxCell id="nBdt6PHgGBMKfEyYtg19-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="nBdt6PHgGBMKfEyYtg19-2" target="nBdt6PHgGBMKfEyYtg19-8" edge="1">
@@ -1064,7 +1299,7 @@
                 </mxCell>
                 <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Solicitação de Portabilidade" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="nBdt6PHgGBMKfEyYtg19-6">
                     <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="-356" y="3225" width="1626" height="507" as="geometry"/>
+                        <mxGeometry x="-356" y="3225" width="1604" height="507" as="geometry"/>
                     </mxCell>
                 </object>
                 <mxCell id="nBdt6PHgGBMKfEyYtg19-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="nBdt6PHgGBMKfEyYtg19-8" target="43TsJybS8k9b_F5QSq5D-0" edge="1">
@@ -1074,12 +1309,12 @@
                 </mxCell>
                 <object placeholders="1" c4Name="Solicita Portabilidade" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,-XVwBRaBFXgu7eRBlfFH" id="nBdt6PHgGBMKfEyYtg19-8">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="-295" y="3293" width="240" height="120" as="geometry"/>
+                        <mxGeometry x="-292" y="3297" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
                 <object placeholders="1" c4Name="Reporta informações de pedidos de portabilidade" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="nBdt6PHgGBMKfEyYtg19-11">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="980" y="3523" width="240" height="120" as="geometry"/>
+                        <mxGeometry x="985" y="3508" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
                 <mxCell id="43TsJybS8k9b_F5QSq5D-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="43TsJybS8k9b_F5QSq5D-0" target="_zfgBjIu8Uyyq8XFvvuh-0" edge="1">
@@ -1100,39 +1335,52 @@
                 <mxCell id="DJrLDxOtmo3GQ7Iecmwn-0" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="_zfgBjIu8Uyyq8XFvvuh-0" target="_zfgBjIu8Uyyq8XFvvuh-1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera informações para pagamento" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,d57dpsIR6m3TzenbDogq" id="_zfgBjIu8Uyyq8XFvvuh-0">
+                <object placeholders="1" c4Name="Atualização dados para pagamento" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,d57dpsIR6m3TzenbDogq" id="_zfgBjIu8Uyyq8XFvvuh-0">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
                         <mxGeometry x="319" y="3297" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="tINBVf23VeqvTHe_1OTp-0" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="_zfgBjIu8Uyyq8XFvvuh-1" target="DJrLDxOtmo3GQ7Iecmwn-1" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <object placeholders="1" c4Name="Informado a respeito da liquidação do contrato" c4Type="Credora" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="_zfgBjIu8Uyyq8XFvvuh-1">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="650" y="3296" width="240" height="120" as="geometry"/>
-                    </mxCell>
-                </object>
-                <mxCell id="DJrLDxOtmo3GQ7Iecmwn-3" style="edgeStyle=none;html=1;" parent="nBdt6PHgGBMKfEyYtg19-1" source="DJrLDxOtmo3GQ7Iecmwn-1" target="nBdt6PHgGBMKfEyYtg19-11" edge="1">
+                <mxCell id="tINBVf23VeqvTHe_1OTp-0" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="_zfgBjIu8Uyyq8XFvvuh-1" target="DJrLDxOtmo3GQ7Iecmwn-1" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="1295" y="3356" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="770" y="3465"/>
+                            <mxPoint x="439" y="3465"/>
+                        </Array>
                     </mxGeometry>
                 </mxCell>
-                <object placeholders="1" c4Name="Informado a respeito da confirmação do pagamento" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="DJrLDxOtmo3GQ7Iecmwn-1">
+                <object placeholders="1" c4Name="Liquidação do contrato" c4Type="Credora" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,HrHOHmheufYAzI8AfMHp" id="_zfgBjIu8Uyyq8XFvvuh-1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
+                        <mxGeometry x="650" y="3297" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="DJrLDxOtmo3GQ7Iecmwn-3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nBdt6PHgGBMKfEyYtg19-1" source="DJrLDxOtmo3GQ7Iecmwn-1" target="rhD7xJb8x5YBHvy16PkP-0" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="953" y="3576" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Valida Contrato" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="DJrLDxOtmo3GQ7Iecmwn-1">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="650" y="3527" width="240" height="120" as="geometry"/>
+                        <mxGeometry x="319" y="3508" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
                 <UserObject label="ver fluxo alternativo" link="data:page/id,uFRnEBXmP6jfF7d3wLx4" id="PKP3zZjB12Dht8I9z7UE-0">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;textShadow=0;shadow=1;" parent="nBdt6PHgGBMKfEyYtg19-1" vertex="1">
-                        <mxGeometry x="842" y="3620" width="69" height="46" as="geometry"/>
+                        <mxGeometry x="768" y="3746" width="69" height="46" as="geometry"/>
                     </mxCell>
                 </UserObject>
+                <mxCell id="rhD7xJb8x5YBHvy16PkP-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nBdt6PHgGBMKfEyYtg19-1" source="rhD7xJb8x5YBHvy16PkP-0" target="nBdt6PHgGBMKfEyYtg19-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Quita contrato" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,LF2HFue9smEYRJcYjeUF" id="rhD7xJb8x5YBHvy16PkP-0">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="nBdt6PHgGBMKfEyYtg19-1">
+                        <mxGeometry x="650" y="3508" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
             </root>
         </mxGraphModel>
     </diagram>
-    <diagram name="Recupera informações para pagamento" id="d57dpsIR6m3TzenbDogq">
-        <mxGraphModel dx="2672" dy="-1586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <diagram name="Atualização dados para pagamento" id="d57dpsIR6m3TzenbDogq">
+        <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="tJktHjlg-atQ27fGn9Ce-0"/>
                 <mxCell id="tJktHjlg-atQ27fGn9Ce-1" parent="tJktHjlg-atQ27fGn9Ce-0"/>
@@ -1144,10 +1392,10 @@
                         <mxGeometry x="303" y="3326" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="KzGeM4avw612NIqdprx3-19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tJktHjlg-atQ27fGn9Ce-1" source="tJktHjlg-atQ27fGn9Ce-12" target="KzGeM4avw612NIqdprx3-18">
+                <mxCell id="KzGeM4avw612NIqdprx3-19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="tJktHjlg-atQ27fGn9Ce-1" source="tJktHjlg-atQ27fGn9Ce-12" target="KzGeM4avw612NIqdprx3-18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera dados bancarios" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="tJktHjlg-atQ27fGn9Ce-12">
+                <object placeholders="1" c4Name="Recupera dados bancarios" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,MY3-MFDW-4agUHK0grRh" id="tJktHjlg-atQ27fGn9Ce-12">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="tJktHjlg-atQ27fGn9Ce-1" vertex="1">
                         <mxGeometry x="683" y="3326" width="240" height="120" as="geometry"/>
                     </mxCell>
@@ -1157,7 +1405,7 @@
                         <mxGeometry x="213" y="3219" width="1171" height="507" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="KzGeM4avw612NIqdprx3-17" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tJktHjlg-atQ27fGn9Ce-1" source="tJktHjlg-atQ27fGn9Ce-30" target="tJktHjlg-atQ27fGn9Ce-10">
+                <mxCell id="KzGeM4avw612NIqdprx3-17" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="tJktHjlg-atQ27fGn9Ce-1" source="tJktHjlg-atQ27fGn9Ce-30" target="tJktHjlg-atQ27fGn9Ce-10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <object placeholders="1" c4Name="Fluxos anteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="tJktHjlg-atQ27fGn9Ce-30">
@@ -1179,7 +1427,7 @@
                 <mxCell id="tJktHjlg-atQ27fGn9Ce-37" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Contexto:&lt;/b&gt;&amp;nbsp;Proponente recupera informações sobre valor atual do saldo devedor e dados bancários para efetivação do pagamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="tJktHjlg-atQ27fGn9Ce-1" vertex="1">
                     <mxGeometry x="-448" y="3126" width="1181" height="30" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera informações para pagamento" c4Type="SystemScopeBoundary" c4Application="Recupera informações para pagamento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="wlEEqCqI1wZPERYKiSMW-1">
+                <object placeholders="1" c4Name="Atualização dados para pagamento" c4Type="SystemScopeBoundary" c4Application="Atualização dados para pagamento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="wlEEqCqI1wZPERYKiSMW-1">
                     <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="tJktHjlg-atQ27fGn9Ce-1" vertex="1">
                         <mxGeometry x="256" y="3257" width="727" height="270" as="geometry"/>
                     </mxCell>
@@ -1189,24 +1437,183 @@
                         <mxGeometry x="-109" y="3193" width="1522" height="572" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="KzGeM4avw612NIqdprx3-21" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tJktHjlg-atQ27fGn9Ce-1" source="KzGeM4avw612NIqdprx3-18" target="KzGeM4avw612NIqdprx3-20">
+                <mxCell id="KzGeM4avw612NIqdprx3-21" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="tJktHjlg-atQ27fGn9Ce-1" source="KzGeM4avw612NIqdprx3-18" target="KzGeM4avw612NIqdprx3-20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Informado a respeito da liquidação do contrato" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="KzGeM4avw612NIqdprx3-18">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="tJktHjlg-atQ27fGn9Ce-1">
+                <object placeholders="1" c4Name="Liquidação do contrato" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,HrHOHmheufYAzI8AfMHp" id="KzGeM4avw612NIqdprx3-18">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="tJktHjlg-atQ27fGn9Ce-1" vertex="1">
                         <mxGeometry x="683" y="3574" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
                 <object placeholders="1" c4Name="Fluxos posteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="KzGeM4avw612NIqdprx3-20">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="tJktHjlg-atQ27fGn9Ce-1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="tJktHjlg-atQ27fGn9Ce-1" vertex="1">
+                        <mxGeometry x="1050" y="3574" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Liquidação do contrato - Scenario 1" id="HrHOHmheufYAzI8AfMHp">
+        <mxGraphModel dx="2672" dy="-1586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="Is0bMyxFHZWJQ3E_AgPH-0"/>
+                <mxCell id="Is0bMyxFHZWJQ3E_AgPH-1" parent="Is0bMyxFHZWJQ3E_AgPH-0"/>
+                <object placeholders="1" c4Name="Liquidação" c4Type="SystemScopeBoundary" c4Application="Liquidação" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Is0bMyxFHZWJQ3E_AgPH-6">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                        <mxGeometry x="213" y="3219" width="1171" height="507" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="Is0bMyxFHZWJQ3E_AgPH-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Is0bMyxFHZWJQ3E_AgPH-1" source="Is0bMyxFHZWJQ3E_AgPH-8" target="LsqwI9a2CjcZW9T45h3f-0">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="269" y="3384" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Fluxos anteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="Is0bMyxFHZWJQ3E_AgPH-8">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                        <mxGeometry x="-60" y="3324" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Is0bMyxFHZWJQ3E_AgPH-9">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                        <mxGeometry x="-346" y="3292" width="200" height="180" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="Is0bMyxFHZWJQ3E_AgPH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Is0bMyxFHZWJQ3E_AgPH-1" source="Is0bMyxFHZWJQ3E_AgPH-9" target="Is0bMyxFHZWJQ3E_AgPH-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is0bMyxFHZWJQ3E_AgPH-11" value="&lt;b&gt;Caminho feliz&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                    <mxGeometry x="-408" y="3088" width="616" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is0bMyxFHZWJQ3E_AgPH-12" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Contexto:&lt;/b&gt;&amp;nbsp;Proponente recupera informações sobre valor atual do saldo devedor e dados bancários para efetivação do pagamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                    <mxGeometry x="-448" y="3126" width="1181" height="30" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Liquidação do contrato" c4Type="SystemScopeBoundary" c4Application="Liquidação do contrato" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Is0bMyxFHZWJQ3E_AgPH-13">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                        <mxGeometry x="519" y="3254" width="827" height="310" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Portabilidade de Crédito" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Is0bMyxFHZWJQ3E_AgPH-14">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                        <mxGeometry x="-109" y="3193" width="1522" height="572" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos posteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="Is0bMyxFHZWJQ3E_AgPH-17">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
                         <mxGeometry x="1040" y="3574" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Atualização dados para pagamento" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,d57dpsIR6m3TzenbDogq" id="LsqwI9a2CjcZW9T45h3f-0">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Is0bMyxFHZWJQ3E_AgPH-1">
+                        <mxGeometry x="248" y="3329" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Validação do contrato - Scenario 1" id="fFCtYzS4oAUeUxGAFZtG">
+        <mxGraphModel dx="2740" dy="-1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="Iy_l_xmH6X-H8bIRJ1MC-0"/>
+                <mxCell id="Iy_l_xmH6X-H8bIRJ1MC-1" parent="Iy_l_xmH6X-H8bIRJ1MC-0"/>
+                <object placeholders="1" c4Name="Liquidação" c4Type="SystemScopeBoundary" c4Application="Liquidação" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Iy_l_xmH6X-H8bIRJ1MC-2">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="213" y="3219" width="1171" height="507" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="Iy_l_xmH6X-H8bIRJ1MC-3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1" source="Iy_l_xmH6X-H8bIRJ1MC-4" target="79n2eoHdX2c2rRqWh4MO-0">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="248" y="3389" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Fluxos anteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="Iy_l_xmH6X-H8bIRJ1MC-4">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="-60" y="3324" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Iy_l_xmH6X-H8bIRJ1MC-5">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="-346" y="3292" width="200" height="180" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="Iy_l_xmH6X-H8bIRJ1MC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1" source="Iy_l_xmH6X-H8bIRJ1MC-5" target="Iy_l_xmH6X-H8bIRJ1MC-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Validação do contrato" c4Type="SystemScopeBoundary" c4Application="Validar e quitar contrato de emprestimo" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Iy_l_xmH6X-H8bIRJ1MC-9">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="519" y="3254" width="827" height="310" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Portabilidade de Crédito" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Iy_l_xmH6X-H8bIRJ1MC-10">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="-109" y="3193" width="1522" height="572" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos posteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="Iy_l_xmH6X-H8bIRJ1MC-11">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="1106" y="3584" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Liquidação do contrato" c4Type="Credora" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,HrHOHmheufYAzI8AfMHp" id="79n2eoHdX2c2rRqWh4MO-0">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Iy_l_xmH6X-H8bIRJ1MC-1">
+                        <mxGeometry x="238" y="3324" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Quita contrato - Scenario 1" id="LF2HFue9smEYRJcYjeUF">
+        <mxGraphModel dx="3074" dy="-1066" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="Fx12Ee65qPltfOkpQqTl-0"/>
+                <mxCell id="Fx12Ee65qPltfOkpQqTl-1" parent="Fx12Ee65qPltfOkpQqTl-0"/>
+                <object placeholders="1" c4Name="Liquidação" c4Type="SystemScopeBoundary" c4Application="Liquidação" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Fx12Ee65qPltfOkpQqTl-2">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="213" y="3219" width="1171" height="507" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="Fx12Ee65qPltfOkpQqTl-3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fx12Ee65qPltfOkpQqTl-1" source="Fx12Ee65qPltfOkpQqTl-4" target="Fx12Ee65qPltfOkpQqTl-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="248" y="3389" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <object placeholders="1" c4Name="Fluxos anteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="Fx12Ee65qPltfOkpQqTl-4">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="-60" y="3324" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Fx12Ee65qPltfOkpQqTl-5">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="-346" y="3292" width="200" height="180" as="geometry"/>
+                    </mxCell>
+                </object>
+                <mxCell id="Fx12Ee65qPltfOkpQqTl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fx12Ee65qPltfOkpQqTl-1" source="Fx12Ee65qPltfOkpQqTl-5" target="Fx12Ee65qPltfOkpQqTl-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object placeholders="1" c4Name="Quita contrato" c4Type="SystemScopeBoundary" c4Application="Quita contrato" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Fx12Ee65qPltfOkpQqTl-7">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="519" y="3254" width="827" height="310" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Portabilidade de Crédito" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Fx12Ee65qPltfOkpQqTl-8">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="-109" y="3193" width="1522" height="572" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Fluxos posteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="Fx12Ee65qPltfOkpQqTl-9">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="1106" y="3584" width="240" height="120" as="geometry"/>
+                    </mxCell>
+                </object>
+                <object placeholders="1" c4Name="Liquidação do contrato" c4Type="Credora" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,HrHOHmheufYAzI8AfMHp" id="Fx12Ee65qPltfOkpQqTl-10">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="Fx12Ee65qPltfOkpQqTl-1">
+                        <mxGeometry x="238" y="3324" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram name="Recupera saldo devedor atualizado" id="QX0VzgXJhK-shbWanO0J">
-        <mxGraphModel dx="1976" dy="-2593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2672" dy="-1986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="WYwr_R0I-h_Fm-PVt0Hx-0"/>
                 <mxCell id="WYwr_R0I-h_Fm-PVt0Hx-1" parent="WYwr_R0I-h_Fm-PVt0Hx-0"/>
@@ -1232,7 +1639,7 @@
                 <mxCell id="E3WZU5mK9kIdxcuHKBMR-15" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WYwr_R0I-h_Fm-PVt0Hx-1" source="WYwr_R0I-h_Fm-PVt0Hx-8" target="E3WZU5mK9kIdxcuHKBMR-14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera dados bancarios" c4Type="PROPONENTE" c4Description="Description of software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="WYwr_R0I-h_Fm-PVt0Hx-8">
+                <object placeholders="1" c4Name="Recupera dados bancarios" c4Type="PROPONENTE" c4Description="Description of software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,QX0VzgXJhK-shbWanO0J" id="WYwr_R0I-h_Fm-PVt0Hx-8">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="WYwr_R0I-h_Fm-PVt0Hx-1" vertex="1">
                         <mxGeometry x="623" y="3710" width="240" height="120" as="geometry"/>
                     </mxCell>
@@ -1256,7 +1663,7 @@
                 <mxCell id="WYwr_R0I-h_Fm-PVt0Hx-15" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Contexto:&lt;/b&gt;&amp;nbsp;Proponente recupera informações sobre valor atual do saldo devedor" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="WYwr_R0I-h_Fm-PVt0Hx-1" vertex="1">
                     <mxGeometry x="-738" y="3304" width="1181" height="30" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera informações para pagamento" c4Type="SystemScopeBoundary" c4Application="Recupera informações para pagamento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="WYwr_R0I-h_Fm-PVt0Hx-17">
+                <object placeholders="1" c4Name="Atualização dados para pagamento" c4Type="SystemScopeBoundary" c4Application="Atualização dados para pagamento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="WYwr_R0I-h_Fm-PVt0Hx-17">
                     <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="WYwr_R0I-h_Fm-PVt0Hx-1" vertex="1">
                         <mxGeometry x="-84" y="3444" width="992" height="500" as="geometry"/>
                     </mxCell>
@@ -1322,128 +1729,130 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Recupera dados bancarios" id="MY3-MFDW-4agUHK0grRh">
-        <mxGraphModel dx="3140" dy="-1682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2672" dy="-1986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="UyDGOqryHZZTNo3gEM7U-0"/>
                 <mxCell id="UyDGOqryHZZTNo3gEM7U-1" parent="UyDGOqryHZZTNo3gEM7U-0"/>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="UyDGOqryHZZTNo3gEM7U-1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="676" y="3717" as="sourcePoint"/>
                         <mxPoint x="676" y="3581" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <object placeholders="1" c4Name="Liquidação" c4Type="SystemScopeBoundary" c4Application="Liquidação" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-3">
-                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                         <mxGeometry x="-141" y="3406" width="1586" height="612" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="8R_oiERUve-wD02Mtzaq-1" style="edgeStyle=none;html=1;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-6">
+                <mxCell id="8R_oiERUve-wD02Mtzaq-1" style="edgeStyle=none;html=1;" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-6" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="345" y="3635" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera saldo devedor atualizado" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-6">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <object placeholders="1" c4Name="Recupera saldo devedor atualizado" c4Type="PROPONENTE" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,QX0VzgXJhK-shbWanO0J" id="UyDGOqryHZZTNo3gEM7U-6">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;fontColor=#1A1A1A;align=center;arcSize=10;strokeColor=#FFFFFF;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                         <mxGeometry x="-35" y="3575" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="8R_oiERUve-wD02Mtzaq-0" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-7" target="UyDGOqryHZZTNo3gEM7U-6">
+                <mxCell id="8R_oiERUve-wD02Mtzaq-0" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-7" target="UyDGOqryHZZTNo3gEM7U-6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <object placeholders="1" c4Name="Fluxos anteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,d57dpsIR6m3TzenbDogq" id="UyDGOqryHZZTNo3gEM7U-7">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                         <mxGeometry x="-472" y="3575" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
                 <object placeholders="1" c4Name="Cliente" c4Type="Person" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-8">
-                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                    <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                         <mxGeometry x="-773" y="3545" width="200" height="180" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-8" target="UyDGOqryHZZTNo3gEM7U-7">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-8" target="UyDGOqryHZZTNo3gEM7U-7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-10" value="&lt;b&gt;Caminho feliz&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-10" value="&lt;b&gt;Caminho feliz&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="-773" y="3263" width="616" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-11" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Contexto:&lt;/b&gt;&amp;nbsp;Proponente recupera informações sobre valor atual do saldo devedor" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-11" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;Contexto:&lt;/b&gt;&amp;nbsp;Proponente recupera informações sobre valor atual do saldo devedor" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="-773" y="3306" width="1181" height="30" as="geometry"/>
                 </mxCell>
-                <object placeholders="1" c4Name="Recupera informações para pagamento" c4Type="SystemScopeBoundary" c4Application="Recupera informações para pagamento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-12">
-                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <object placeholders="1" c4Name="Atualização dados para pagamento" c4Type="SystemScopeBoundary" c4Application="Atualização dados para pagamento" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-12">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                         <mxGeometry x="-84" y="3444" width="879" height="500" as="geometry"/>
                     </mxCell>
                 </object>
                 <object placeholders="1" c4Name="Recupera dados bancarios" c4Type="SystemScopeBoundary" c4Application="Recupera dados bancarios" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-13">
-                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                         <mxGeometry x="262" y="3495" width="493" height="366" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-14" value="Credora" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-14" value="Credora" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="617" y="3520" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-15" value="Proponente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-15" value="Proponente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="303" y="3520" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" target="UyDGOqryHZZTNo3gEM7U-15">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="UyDGOqryHZZTNo3gEM7U-1" target="UyDGOqryHZZTNo3gEM7U-15" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="363" y="3776" as="sourcePoint"/>
                         <mxPoint x="578" y="3743" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="354" y="3593" width="18" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="UyDGOqryHZZTNo3gEM7U-1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="375" y="3642" as="sourcePoint"/>
                         <mxPoint x="663" y="3642" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="668" y="3624" width="18" height="86" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-19">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="UyDGOqryHZZTNo3gEM7U-1" source="UyDGOqryHZZTNo3gEM7U-19" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="665" y="3690" as="sourcePoint"/>
                         <mxPoint x="379" y="3689" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-21" value="REQUEST [GET] xpto/saldo-atual" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-21" value="REQUEST [GET] xpto/saldo-atual" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="418" y="3613" width="222" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="UyDGOqryHZZTNo3gEM7U-24" value="RESPONSE - status code 200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                <mxCell id="UyDGOqryHZZTNo3gEM7U-24" value="RESPONSE - status code 200" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
                     <mxGeometry x="409" y="3659" width="222" height="30" as="geometry"/>
                 </mxCell>
                 <object placeholders="1" c4Name="Jornada - Portabilidade de Crédito" c4Type="SystemScopeBoundary" c4Application="Jornada - Portabilidade de Crédito" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="UyDGOqryHZZTNo3gEM7U-25">
-                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
-                        <mxGeometry x="-192" y="3358" width="1684" height="723" as="geometry"/>
+                    <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
+                        <mxGeometry x="-516" y="3358" width="2008" height="723" as="geometry"/>
                     </mxCell>
                 </object>
                 <object placeholders="1" c4Name="Fluxos posteriores" c4Type="" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ojzN_VI0zjXX4XeoHVcp" id="UyDGOqryHZZTNo3gEM7U-26">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
-                        <mxGeometry x="1161" y="3699" width="240" height="120" as="geometry"/>
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;align=center;arcSize=10;strokeColor=#666666;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="UyDGOqryHZZTNo3gEM7U-1" vertex="1">
+                        <mxGeometry x="1161" y="3695" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
-                <mxCell id="8R_oiERUve-wD02Mtzaq-2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" target="rto8EHZVhzgkksSORI9D-0">
+                <mxCell id="8R_oiERUve-wD02Mtzaq-2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="UyDGOqryHZZTNo3gEM7U-1" target="qVTpvM-_92vco9lgY3Z8-0" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="517" y="3757" as="targetPoint"/>
+                        <mxPoint x="837" y="3759" as="targetPoint"/>
                         <mxPoint x="377" y="3757" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="rto8EHZVhzgkksSORI9D-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="UyDGOqryHZZTNo3gEM7U-1" source="rto8EHZVhzgkksSORI9D-0" target="UyDGOqryHZZTNo3gEM7U-26">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="rto8EHZVhzgkksSORI9D-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="UyDGOqryHZZTNo3gEM7U-1" source="qVTpvM-_92vco9lgY3Z8-0" target="UyDGOqryHZZTNo3gEM7U-26" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1093" y="3759" as="sourcePoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <object placeholders="1" c4Name="Informado a respeito da liquidação do contrato" c4Type="PROPONENTE" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="rto8EHZVhzgkksSORI9D-0">
-                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;align=center;arcSize=10;strokeColor=#d79b00;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
-                        <mxGeometry x="853" y="3699" width="240" height="120" as="geometry"/>
+                <object placeholders="1" c4Name="Liquidação do contrato" c4Type="Credora" c4Description="&#10;" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="qVTpvM-_92vco9lgY3Z8-0">
+                    <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;align=center;arcSize=10;strokeColor=#82b366;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="UyDGOqryHZZTNo3gEM7U-1">
+                        <mxGeometry x="824" y="3695" width="240" height="120" as="geometry"/>
                     </mxCell>
                 </object>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram name="Notificado a respeito do pagamento efetuado - excecao" id="uFRnEBXmP6jfF7d3wLx4">
-        <mxGraphModel dx="3740" dy="-1682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="3140" dy="-1682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="AsJianXLtEPrS7tcvnoj-0"/>
                 <mxCell id="AsJianXLtEPrS7tcvnoj-1" parent="AsJianXLtEPrS7tcvnoj-0"/>
@@ -1532,7 +1941,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Acompanhamento de pagamento" id="XAeP_W1Pg2WIi40YRia7">
-        <mxGraphModel dx="3340" dy="-1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1336" dy="-2193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="7ZO5h6MEi35UW3eNrDH4-0"/>
                 <mxCell id="7ZO5h6MEi35UW3eNrDH4-1" parent="7ZO5h6MEi35UW3eNrDH4-0"/>

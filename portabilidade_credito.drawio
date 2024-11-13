@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="20">
     <diagram name="Jornada Portabilidade de Credito" id="M5Q3jhp2dl8B_hAUe0Yg">
-        <mxGraphModel dx="936" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="623" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1941,7 +1941,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Acompanhamento de pagamento" id="XAeP_W1Pg2WIi40YRia7">
-        <mxGraphModel dx="1336" dy="-2193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1023" dy="-2193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="7ZO5h6MEi35UW3eNrDH4-0"/>
                 <mxCell id="7ZO5h6MEi35UW3eNrDH4-1" parent="7ZO5h6MEi35UW3eNrDH4-0"/>
